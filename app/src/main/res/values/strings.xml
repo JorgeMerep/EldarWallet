@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EldarWallet</string>
+
+    //Login Fragment
+    <string name="titulo_login">Eldar Wallet</string>
+    <string name="btn_login">Iniciar Sesion</string>
+    <string name="primera_vez_login">¿Primera vez que ingresas? </string>
+    <string name="registrate">Registrate</string>
+
+    //Create Usser Fragment
+    <string name="titulo_create_usser">Crear nuevo usuario</string>
+    <string name="full_name">Nombre y Apellido:</string>
+    <string name="dni">DNI:</string>
+    <string name="btn_create_usser">Crear usuario</string>
+    <string name="btn_return">Atras</string>
+
+    //Home Fragment
+    <string name="saldo">Saldo: $200.000</string>
+    <string name="btn_agregar_tarjeta">Agregar Tarjeta</string>
+    <string name="btn_pagar_qr">Pagar con QR</string>
+
+    //New Card Fragment
+    <string name="nombre_tarjeta">Nombre de la Tarjeta:</string>
+    <string name="numero_tarjeta">Número de la Tarjeta:</string>
+    <string name="codigo_tarjeta">Código de la Tarjeta:</string>
+    <string name="vencimiento_tarjeta">Vencimiento de la Tarjeta:</string>
+
+
+    <string name="cancelar">Cancelar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
